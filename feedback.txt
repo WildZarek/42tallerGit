@@ -1,0 +1,8 @@
+Me ha parecido un taller muy interesante y entretenido sobretodo en la parte práctica.
+Se me ha hecho corto a pesar de durar 2h. Es un taller de mucha utilidad para conocer Git(hub)
+y saber cómo utilizarlo para trabajar de forma colaborativa con otrxs compañerxs.
+Algunas de las cosas que se han visto ya las conocía aunque he aprendido nuevas formas de
+trabajar con Git. Espero que se sigan haciendo estos talleres para seguir profundizando y
+ampliando el conocimiento de esta gran herramienta tan necesaria para nuestro día a día en 42.
+Gracias por impartir el taller.
+
