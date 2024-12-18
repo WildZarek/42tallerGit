@@ -1,0 +1,3 @@
+[submodule "42practica02Git"]
+	path = 42practica02Git
+	url = git@github.com:WildZarek/42practica02Git.git
