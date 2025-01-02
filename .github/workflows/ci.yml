@@ -2,9 +2,9 @@ name: CI
 
 on:
   push:
-    branches: [ master ]
+    branches: [ dsarmien ]
   pull_request:
-    branches: [ master ]
+    branches: [ dsarmien ]
 
 jobs:
   build_and_test:
